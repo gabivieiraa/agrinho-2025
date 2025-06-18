@@ -9,7 +9,7 @@ body {
   header {
     background: #19c971;
     color: #ffffff;
-    padding: 20px 0;
+    padding: 40px 0;
     text-align: center;
   }
   
@@ -44,3 +44,22 @@ body {
     bottom: 0;
     width: 100%;
   }
+
+.city{
+  display: block;
+  text-align: center;
+}
+
+.field{
+  display: block;
+  text-align: center;
+}
+
+.intro{
+  text-align: center;
+
+}
+
+.concclusion{
+  text-align: center;
+}
